@@ -1,2 +1,3 @@
 # dspot-prettifier-experiments
-Experimentation of DSpot-prettifier.
+
+A repository that contains result of dspot-prettifier's experimentations.
