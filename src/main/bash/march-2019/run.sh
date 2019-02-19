@@ -6,8 +6,8 @@ cd code2vec
 git reset --hard a7873314a1066c945048ef25f8f843e4c932c207
 
 # Copy our configured script files
-cp src/bash/march-2019/preprocess.sh code2vec/preprocess.sh
-cp src/bash/march-2019/train.sh code2vec/train.sh
+cp src/main/bash/march-2019/preprocess.sh code2vec/preprocess.sh
+cp src/main/bash/march-2019/train.sh code2vec/train.sh
 
 # retrieve the raw-benchmark from Zenodo
 cd code2vec/
